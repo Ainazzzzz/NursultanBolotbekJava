@@ -1,19 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ccb7191-3817-4b4d-8658-5b62afb1f767" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NursultanJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inh/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inh/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3Num6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3Num8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3Num9.java" afterDir="false" />
+    <list default="true" id="0ccb7191-3817-4b4d-8658-5b62afb1f767" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3Num10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3Num2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3Num3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3Num4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3Num5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3Num7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/List/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/List/Employees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/List/EmployeesInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/List/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/List/ItemInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/List/ItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/List/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/List/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/List/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/List/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/List/TaskInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/List/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inher/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inher/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inher/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inher/EmployeeManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inher/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inher/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inher/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inher/Salesperson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inh/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inh/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3Num9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3Num9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +53,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -30,8 +62,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d1fa4b90-d38a-4a65-b6e8-231b01c43504" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2Lff2CBKUzESrJJDhFHqBSlPknF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,27 +77,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Application.lab3Num8">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="oop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.oop.List.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="NursultanJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="inh.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inh.Main" />
+      <option name="MAIN_CLASS_NAME" value="oop.Main" />
       <module name="NursultanJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inh.*" />
+          <option name="PATTERN" value="oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,26 +108,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab3Num8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab3Num8" />
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.User" />
+      <module name="NursultanJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab3Num10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3Num10" />
       <module name="NursultanJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab3Num9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab3Num9" />
+    <configuration name="oop.List.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.List.Main" />
       <module name="NursultanJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop.inher.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.inher.Main" />
+      <module name="NursultanJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.inher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lab3Num8" />
-        <item itemvalue="Application.inh.Main" />
-        <item itemvalue="Application.lab3Num9" />
+        <item itemvalue="Application.oop.List.Main" />
+        <item itemvalue="Application.oop.inher.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.User" />
+        <item itemvalue="Application.lab3Num10" />
       </list>
     </recent_temporary>
   </component>
@@ -101,8 +175,38 @@
       <workItem from="1676266853762" duration="3620000" />
       <workItem from="1676294382339" duration="1151000" />
       <workItem from="1676299454369" duration="6439000" />
-      <workItem from="1676532501980" duration="5652000" />
+      <workItem from="1676532501980" duration="6672000" />
+      <workItem from="1676654138665" duration="8588000" />
+      <workItem from="1676691270149" duration="8436000" />
+      <workItem from="1676869772038" duration="99000" />
+      <workItem from="1677475867918" duration="9685000" />
+      <workItem from="1677567781489" duration="5270000" />
+      <workItem from="1677603079290" duration="1035000" />
+      <workItem from="1677680400179" duration="178000" />
+      <workItem from="1677758374281" duration="1012000" />
+      <workItem from="1677760274907" duration="2317000" />
+      <workItem from="1677951093463" duration="1337000" />
+      <workItem from="1678029794385" duration="14000" />
+      <workItem from="1678076674427" duration="610000" />
+      <workItem from="1678079233739" duration="761000" />
+      <workItem from="1680370001183" duration="9101000" />
+      <workItem from="1680792124851" duration="1314000" />
+      <workItem from="1681708239245" duration="3770000" />
+      <workItem from="1681728375289" duration="17946000" />
+      <workItem from="1681813571611" duration="16000" />
+      <workItem from="1682092316434" duration="24000" />
+      <workItem from="1684337652058" duration="34000" />
+      <workItem from="1684682103712" duration="131000" />
+      <workItem from="1686129749438" duration="99000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1676551166109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676551166111</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,5 +222,24 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oop/List/EmployeesInterface.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
